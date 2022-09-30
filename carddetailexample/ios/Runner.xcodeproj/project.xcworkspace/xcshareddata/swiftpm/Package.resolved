@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "354dda32d89fc8cd4f5c46487f64957d355f53d8",
+        "version" : "5.6.1"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6299daec1d74be12164fec090faf9ed14d0da9d6"
+      }
+    },
+    {
+      "identity" : "swcrypt",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/soyersoyer/SwCrypt",
+      "state" : {
+        "revision" : "d18cf90973a32dc0d28f94eec91faf14ae8b4443",
+        "version" : "5.1.4"
+      }
+    }
+  ],
+  "version" : 2
+}
